@@ -79,37 +79,3 @@ Arduino IDE
 ![image](https://github.com/user-attachments/assets/f039a0d9-61dc-4276-b498-9fe904e06bea)
 
 
-Explanation of codes:
-
-
-Include SoftwareSerial Library:
-
-#include <SoftwareSerial.h>: Adds support for serial communication via software-defined pins.
-Variable Declaration:
-
-String value;: Stores received commands from the Bluetooth module.
-int TxD = 11, RxD = 10;: Define pins for Bluetooth TX and RX communication.
-SoftwareSerial Object:
-
-SoftwareSerial bluetooth(TxD, RxD);: Creates a SoftwareSerial object named bluetooth.
-Setup Function:
-
-pinMode(2, OUTPUT); and pinMode(3, OUTPUT);: Set pins 2 and 3 as outputs for controlling LEDs.
-Serial.begin(9600);: Starts serial communication with the computer at 9600 bps.
-bluetooth.begin(9600);: Initializes Bluetooth communication at 9600 bps.
-Loop Function:
-
-if (bluetooth.available()): Checks if data is received from the Bluetooth module.
-value = bluetooth.readString();: Reads the incoming command and stores it in value.
-Command Processing: Based on the received value, specific actions are performed:
-
-"all LED turn on": Turns on LEDs connected to pins 2 and 3.
-"all LED turn off": Turns off LEDs connected to pins 2 and 3.
-"turn on Red LED": Turns on the LED on pin 2.
-"turn on green LED": Turns on the LED on pin 3.
-"turn off red LED": Turns off the LED on pin 2.
-"turn off green LED": Turns off the LED on pin 3.
-"turn off all devices": Turns off LEDs on pins 2, 3, and also pin 4 (though pin 4 is not explicitly set up).
-"time to party": Creates a blinking pattern where the LEDs alternate between on and off states for 60 iterations with a 250ms delay.
-This code allows for controlling LEDs via Bluetooth commands and includes a fun "party mode" with a blinking pattern.
-
