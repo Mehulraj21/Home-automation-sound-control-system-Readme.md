@@ -30,6 +30,9 @@ Bread Board
 
 
 Wire Connectors
+
+
+
 ![image](https://github.com/user-attachments/assets/2e1a3df4-f2ac-4ca2-b02e-0143c33874cb)
 
 
