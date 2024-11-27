@@ -1,4 +1,4 @@
-Voice-Controlled-Home-automation-System 🎙️🏠⚙️
+Voice-Controlled-Home-automation-System 🎙️🏠⚙️/n
 A basic voice controlled home automation system by interfacing python with Arduino UNO board.
 
 Experience the future of home management with VoiceHomeLink, an avant-garde home automation system. This cutting-edge solution seamlessly merges Python, Embedded C, and Arduino Uno board technology, transforming your voice commands into orchestrated actions. Interact with your home like never before, using just your voice to control a symphony of devices. With an array of sensors and actuators, VoiceHomeLink ensures precise execution of your commands, creating a harmonious living environment. Simplify your life and amplify your control with VoiceHomeLink, where innovation meets everyday convenience
@@ -22,6 +22,10 @@ Arduino UNO R3 Board
 
 
 Bread Board
+
+
+
+
 ![image](https://github.com/user-attachments/assets/6b9ff050-5020-45bd-a497-c67b7382d79a)
 
 
@@ -31,19 +35,32 @@ Wire Connectors
 
 
 Relay Module
+
+
+
 ![image](https://github.com/user-attachments/assets/678ef259-4b00-46cf-ac2b-32c4966a4bae)
 
 
 
 SMD RGB Light Module
+
+
+
+
 ![image](https://github.com/user-attachments/assets/f04f497a-aa42-4bb3-a735-4d5f3ec1c649)
 
 
 
 Python
+
+
+
 ![image](https://github.com/user-attachments/assets/7d583efd-9865-4ac2-9ea4-8d38b4ebe2e9)
 
 
 Arduino IDE
+
+
+
 ![image](https://github.com/user-attachments/assets/f039a0d9-61dc-4276-b498-9fe904e06bea)
 
