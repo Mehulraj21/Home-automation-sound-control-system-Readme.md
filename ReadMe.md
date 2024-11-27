@@ -18,6 +18,7 @@ To provide a cost-effective and sustainable solution for home automation that is
 To showcase the use of Arduino with Python using the Standard Firmata library for developing home automation systems.
 To learn and apply the principles of voice recognition, microcontroller programming, and software-hardware integration.
 Hardware & Software Requirements (Technology & Tools)💻➡️
+
 Arduino UNO R3 Board
 
 ![image](https://github.com/user-attachments/assets/638390d9-0736-4acd-8ec8-4f4600f2272e)
