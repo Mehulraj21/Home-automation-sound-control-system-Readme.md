@@ -49,6 +49,12 @@ Relay Module
 ![image](https://github.com/user-attachments/assets/678ef259-4b00-46cf-ac2b-32c4966a4bae)
 
 
+Sound sensor
+
+
+![image](https://github.com/user-attachments/assets/baf7ec21-4945-4a75-8a7b-548dbcf69004)
+
+
 
 SMD RGB Light Module
 
