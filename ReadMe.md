@@ -17,7 +17,9 @@ To develop a reliable and energy-efficient system that reduces energy consumptio
 To provide a cost-effective and sustainable solution for home automation that is accessible to a wider range of users.
 To showcase the use of Arduino with Python using the Standard Firmata library for developing home automation systems.
 To learn and apply the principles of voice recognition, microcontroller programming, and software-hardware integration.
+
 Hardware & Software Requirements (Technology & Tools)💻➡️
+
 
 Arduino UNO R3 Board
 
