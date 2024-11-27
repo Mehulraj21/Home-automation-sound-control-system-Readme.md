@@ -5,6 +5,7 @@ Voice Controlled Mini Home Automation Project (IOT) : Used an Arduino Uno board 
 
 
 
+
 Working
 Arduino will be checking the incoming values all the time and controls the LEDs as per the voice command. Arduino will turn on or off the LED according to the given Voice command. All the received command are saved in variable “Value” If the value is "all LED turn on" then both the LEDs turns ON, like this other voice commands for turning on or off the individual LED is coded.
 
