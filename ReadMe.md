@@ -1,7 +1,7 @@
 Voice-Controlled-Lights-Arduino
 Voice Controlled Mini Home Automation Project (IOT) : Used an Arduino Uno board and Bluetooth Module. Connected LED lights to the Arduino and controlled them by using voice commands though a smartphone connected to the bluetooth module.
+![Uploading image.png…]()
 
-Can view a video of the working here https://ishita-mehta.github.io/Video-For-VoiceBt-Arduino/index.html
 
 
 
