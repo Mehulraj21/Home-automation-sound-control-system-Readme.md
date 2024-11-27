@@ -17,29 +17,33 @@ To showcase the use of Arduino with Python using the Standard Firmata library fo
 To learn and apply the principles of voice recognition, microcontroller programming, and software-hardware integration.
 Hardware & Software Requirements (Technology & Tools)💻➡️
 Arduino UNO R3 Board
-https://user-images.githubusercontent.com/74930080/229367221-f67ae2d4-c2f4-4892-abfb-b3e0fef2a9df.png
-image
 
 ![image](https://github.com/user-attachments/assets/638390d9-0736-4acd-8ec8-4f4600f2272e)
 
 
 Bread Board
-image
+![image](https://github.com/user-attachments/assets/6b9ff050-5020-45bd-a497-c67b7382d79a)
+
 
 Wire Connectors
-image
+![image](https://github.com/user-attachments/assets/2e1a3df4-f2ac-4ca2-b02e-0143c33874cb)
 
-Laser Sensor Module 6mm 5v
-image
+
 
 Relay Module
-image
+![image](https://github.com/user-attachments/assets/678ef259-4b00-46cf-ac2b-32c4966a4bae)
+
+
 
 SMD RGB Light Module
-image
+![image](https://github.com/user-attachments/assets/f04f497a-aa42-4bb3-a735-4d5f3ec1c649)
+
+
 
 Python
-image
+![image](https://github.com/user-attachments/assets/7d583efd-9865-4ac2-9ea4-8d38b4ebe2e9)
+
 
 Arduino IDE
-image
+![image](https://github.com/user-attachments/assets/f039a0d9-61dc-4276-b498-9fe904e06bea)
+
